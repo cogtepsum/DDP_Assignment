@@ -1,4 +1,5 @@
 *This is a ShinyApp created for the course project of Developing Data Products course from Cousera Data Science Specialization.*
+###### Source code is available on GitHub: https://github.com/cogtepsum/DDP_Assignment
 
 This is a very simple app that may help one to understand [K-Means](https://en.wikipedia.org/wiki/K-means_clustering) clustering algorithm. It generates some random data, distributed normally across centers, number of which is determined by the user as a number of "true clusters". Positions of centers are generated from uniform random distribution. Variance of all of these random variables is adjusted according to the number of true clusters.
 

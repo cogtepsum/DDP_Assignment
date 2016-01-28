@@ -37,7 +37,8 @@ shinyServer(function(input, output) {
         output$distPlot <- renderPlot({
                 c <- clusters()
                 
-                clusplot(data(), c, color = T, shade = T, sub = NULL)
+                clusplot(data(), c, color = T, shade = T, 
+                         sub = NULL, title = NULL, main = 'K-Means Clustering')
         })
         
         output$slider <- renderUI({

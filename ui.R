@@ -2,7 +2,7 @@ library(shiny)
 
 shinyUI(fluidPage(
         
-        titlePanel("Example of KMeans Clustering"),
+        titlePanel("Example of K-Means Clustering"),
         
         sidebarLayout(
                 sidebarPanel(
