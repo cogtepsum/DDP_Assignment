@@ -6,6 +6,11 @@ This is a very simple app that may help one to understand [K-Means](https://en.w
 So, basically, you choose a number of Gaussian distribution to generate, and the app will create a combined distribution of them. Afterwards you choose what is the number of clusters you want this data to be divided by - and get your clustering plot.
 
 #### *Citation*: 
-*Chris Fraley, Adrian E. Raftery, T. Brendan Murphy, and Luca Scrucca* (2012) mclust Version 4 for R: Normal Mixture Modeling for Model-Based Clustering, Classification, and Density Estimation Technical Report No. 597, Department of Statistics, University of Washington
 
-*Chris Fraley and Adrian E. Raftery* (2002) Model-based Clustering, Discriminant Analysis and Density Estimation Journal of the American Statistical Association 97:611-631
+*Winston Chang, Joe Cheng, JJ Allaire, Yihui Xie and Jonathan McPherson* (2015). shiny: Web Application Framework for R. R
+  package version 0.12.2. https://CRAN.R-project.org/package=shiny
+  
+*Maechler, M., Rousseeuw, P., Struyf, A., Hubert, M., Hornik, K.* (2015).  cluster: Cluster Analysis Basics and Extensions. R
+  package version 2.0.3.
+
+*H. Wickham.* ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2009.
