@@ -1,9 +1,9 @@
 *This is a ShinyApp created for the course project of Developing Data Products course from Cousera Data Science Specialization.*
 
-This is a very simple app that may help one to understand [K-Means](https://en.wikipedia.org/wiki/K-means_clustering) clustering algorythm. It generates some random data, distributed normally across centers, number of which is determined by the user as a number of "True clusters". Position of centers generated from uniform random distribution. Variance of all of these random variables is adjusted according to the number of true clusters.
+This is a very simple app that may help one to understand [K-Means](https://en.wikipedia.org/wiki/K-means_clustering) clustering algorithm. It generates some random data, distributed normally across centers, number of which is determined by the user as a number of "true clusters". Positions of centers are generated from uniform random distribution. Variance of all of these random variables is adjusted according to the number of true clusters.
 
 #### **Instructions**:
-So, basically, you choose a number of Gaussian distribution to generate, and the app will create a combined distribution of them. Afterwards you choose what is the number of clusters you want this data to be divided by - and get your clustering plot.
+So, basically, you choose a number of Gaussian distribution to generate, and app will create a combined distribution of them. Afterwards you choose what is the number of clusters you want this data to be divided into - and get your clustering plot.
 
 #### *Citation*: 
 
